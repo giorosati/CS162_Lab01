@@ -37,7 +37,7 @@ int main()
 		cout << table[0][0] << " " << table[0][1] << endl;
 		cout << table[1][0] << " " << table[1][1] << endl;
 		cout << endl;
-		cout << "The determinate of this matrix is: " << determinate << endl;
+		cout << "The determinant of this matrix is: " << determinate << endl;
 		cout << endl;
 	}
 	else
@@ -52,7 +52,7 @@ int main()
 		cout << table[1][0] << " " << table[1][1] << " " << table[1][2] << endl;
 		cout << table[2][0] << " " << table[2][1] << " " << table[2][2] << endl;
 		cout << endl;
-		cout << "The determinate of this matrix is: " << determinate << endl;
+		cout << "The determinant of this matrix is: " << determinate << endl;
 		cout << endl;
 	}
 

@@ -34,6 +34,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="makefile.txt" />
+    <None Include="makefile" />
   </ItemGroup>
 </Project>
