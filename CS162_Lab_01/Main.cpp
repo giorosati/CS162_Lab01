@@ -38,6 +38,7 @@ int main()
 		cout << table[1][0] << " " << table[1][1] << endl;
 		cout << endl;
 		cout << "The determinate of this matrix is: " << determinate << endl;
+		cout << endl;
 	}
 	else
 	{
@@ -52,6 +53,7 @@ int main()
 		cout << table[2][0] << " " << table[2][1] << " " << table[2][2] << endl;
 		cout << endl;
 		cout << "The determinate of this matrix is: " << determinate << endl;
+		cout << endl;
 	}
 
 	//used to test in Visual Studio
